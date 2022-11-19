@@ -1,0 +1,1185 @@
+<Questions>
+<Question>
+<ID>16687968</ID>
+<Position>0</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>cell</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687967</ID>
+<Position>1</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the querystring</Label>
+<Responses>
+<Response>freq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687966</ID>
+<Position>2</Position>
+<Type>9</Type>
+<Required>False</Required>
+<Label>CampaignCount</Label>
+<SkipUnless>1=2</SkipUnless>
+<Responses>
+<Response>&lt;hidden&gt;</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687965</ID>
+<Position>3</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the querystring</Label>
+<Responses>
+<Response>banner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687964</ID>
+<Position>4</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the querystring</Label>
+<Responses>
+<Response>referrer</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687963</ID>
+<Position>5</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>PublisherID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687962</ID>
+<Position>6</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>peerlasthit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687961</ID>
+<Position>7</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>lastHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687960</ID>
+<Position>8</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>siteID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687959</ID>
+<Position>9</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>creativeID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687958</ID>
+<Position>10</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>UUID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687957</ID>
+<Position>11</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>placementID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687956</ID>
+<Position>12</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>firstHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687955</ID>
+<Position>13</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>icompasshulu</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687954</ID>
+<Position>14</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>Ignitecontrol</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687953</ID>
+<Position>15</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>IPAddress</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687952</ID>
+<Position>16</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>useragentID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687951</ID>
+<Position>17</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>UserAgent</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687950</ID>
+<Position>18</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>_browsersize</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687949</ID>
+<Position>19</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>_adlocation</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687948</ID>
+<Position>20</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>_adsize</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687947</ID>
+<Position>21</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>_abovethefold</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687946</ID>
+<Position>22</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>_timeinview</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687945</ID>
+<Position>23</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>sampleID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687944</ID>
+<Position>24</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>DWID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687943</ID>
+<Position>25</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>Invite</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687942</ID>
+<Position>26</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>InviteID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687941</ID>
+<Position>27</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>ftouch</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687940</ID>
+<Position>28</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>DID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687939</ID>
+<Position>29</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>peerfreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687938</ID>
+<Position>30</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>bannerList</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687937</ID>
+<Position>31</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>UTID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687969</ID>
+<Position>32</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>itype</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687970</ID>
+<Position>33</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>prg</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687971</ID>
+<Position>34</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>adid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687972</ID>
+<Position>35</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>site</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687973</ID>
+<Position>36</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>affil</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687974</ID>
+<Position>37</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>xpg</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687975</ID>
+<Position>38</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>hcent</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687976</ID>
+<Position>39</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>scent</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687977</ID>
+<Position>40</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>leaf</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687978</ID>
+<Position>41</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>artid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687979</ID>
+<Position>42</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>uri</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687980</ID>
+<Position>43</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>OmnitureID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687981</ID>
+<Position>44</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>TargetID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687982</ID>
+<Position>45</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>CreativeidList</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687983</ID>
+<Position>46</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>PlacementidList</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687985</ID>
+<Position>47</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>onlinefreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687984</ID>
+<Position>48</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>mobilefreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687986</ID>
+<Position>49</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>viewability count</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687987</ID>
+<Position>50</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>sid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687988</ID>
+<Position>51</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>pl</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687989</ID>
+<Position>52</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>psid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687990</ID>
+<Position>53</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>table</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687991</ID>
+<Position>54</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>rnid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687992</ID>
+<Position>55</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>study</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687993</ID>
+<Position>56</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>subsid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687994</ID>
+<Position>57</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>tsid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687995</ID>
+<Position>58</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>sname</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687998</ID>
+<Position>59</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>eaid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687999</ID>
+<Position>60</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>ecid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688000</ID>
+<Position>61</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>esid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688001</ID>
+<Position>62</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>epid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688002</ID>
+<Position>63</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>pt</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688003</ID>
+<Position>64</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>pvid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688004</ID>
+<Position>65</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>art</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688005</ID>
+<Position>66</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>adViews</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688006</ID>
+<Position>67</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>adViewsTotal</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688009</ID>
+<Position>68</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>mm_sgrp</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687996</ID>
+<Position>69</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>guid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16687997</ID>
+<Position>70</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>ignitepartnerid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688010</ID>
+<Position>71</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>rid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688011</ID>
+<Position>72</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>rsid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688012</ID>
+<Position>73</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>ptnrid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688015</ID>
+<Position>74</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>ResetBanner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688016</ID>
+<Position>75</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>tk</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688013</ID>
+<Position>76</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>CustomID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688014</ID>
+<Position>77</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>CustomTypeID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688018</ID>
+<Position>78</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>IPID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688019</ID>
+<Position>79</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>partnerid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688020</ID>
+<Position>80</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>IV</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688021</ID>
+<Position>81</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>IVT</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688022</ID>
+<Position>82</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>UI</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688023</ID>
+<Position>83</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>UIT</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688024</ID>
+<Position>84</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>SCRL</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688025</ID>
+<Position>85</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>SCRLT</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688026</ID>
+<Position>86</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>PGDWL</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688028</ID>
+<Position>87</Position>
+<Type>14</Type>
+<Required>False</Required>
+<Label>Capture a value from the query string</Label>
+<Responses>
+<Response>invitecontrolbannerid</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688029</ID>
+<Position>88</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>CustomTagValueAList</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688030</ID>
+<Position>89</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>CustomTagValueBList</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688031</ID>
+<Position>90</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>AVOC</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688032</ID>
+<Position>91</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>GroupMViewable</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688033</ID>
+<Position>92</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>Hover</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688034</ID>
+<Position>93</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>FullInView</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688035</ID>
+<Position>94</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>FullyViewableTime</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688036</ID>
+<Position>95</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>ViewabilityJSON</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688037</ID>
+<Position>96</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>CustomTagJSON</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688039</ID>
+<Position>97</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>LSID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688040</ID>
+<Position>98</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>transaction_id</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688041</ID>
+<Position>99</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>RSFN</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688042</ID>
+<Position>100</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>MobileExposure</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688043</ID>
+<Position>101</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>inappbanner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688044</ID>
+<Position>102</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>inapplastHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688045</ID>
+<Position>103</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>inappfreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688046</ID>
+<Position>104</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>mobilewebbanner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688047</ID>
+<Position>105</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>mobileweblastHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688048</ID>
+<Position>106</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>mobilewebfreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688049</ID>
+<Position>107</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>desktopwebbanner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688050</ID>
+<Position>108</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>desktopweblastHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688051</ID>
+<Position>109</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>desktopwebfreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688052</ID>
+<Position>110</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>ottbanner</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688053</ID>
+<Position>111</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>ottlastHit</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688054</ID>
+<Position>112</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>ottfreq</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688055</ID>
+<Position>113</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>eligible</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688056</ID>
+<Position>114</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>SessionID</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688057</ID>
+<Position>115</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Responses>
+<Response>success</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688027</ID>
+<Position>116</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Skips>,</Skips>
+<Responses>
+<Response>QADP</Response>
+</Responses>
+</Question>
+<Question>
+<ID>16688058</ID>
+<Position>117</Position>
+<Type>14</Type>
+<Required>True</Required>
+<Label>Capture a value from the query string&lt;ix:options&gt;&lt;isstring&gt;&lt;/ix:options&gt;</Label>
+<Skips>,*</Skips>
+<Responses>
+<Response>TestingUrl</Response>
+</Responses>
+</Question>
+</Questions>
